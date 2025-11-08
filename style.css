@@ -1,0 +1,27 @@
+li { 
+  color: purple;
+  font-size: 24px;
+}
+
+ul {
+  font-family: "Turret Road", sans-serif;
+}
+
+#Mercury {
+  color: white;
+  background-color:blue;
+  font-family: "Turret Road", sans-serif;
+}
+
+#title {
+  font-family: 'Monsieur La Doulaise', cursive;
+  font-size:300%;
+}
+
+.mainclass {
+  background-color:#0c81b3;
+}
+
+html {
+  background-color:pink;
+}
